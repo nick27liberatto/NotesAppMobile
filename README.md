@@ -1,2 +1,2 @@
 # NotesAppMobile
-Notepad App made by MIT APP INVENTOR
+Notepad App made with MIT APP INVENTOR
